@@ -1,0 +1,24 @@
+{
+  "name": "dependency-ab",
+  "version": "1.0.0",
+  "description": "package for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaoutarBa/dependency-ab.git"
+  },
+  "keywords": [
+    "dependency",
+    "package",
+    "scenario"
+  ],
+  "author": "oak-ba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaoutarBa/dependency-ab/issues"
+  },
+  "homepage": "https://github.com/kaoutarBa/dependency-ab#readme"
+}
